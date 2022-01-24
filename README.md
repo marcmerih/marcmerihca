@@ -33,8 +33,7 @@ My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I am also entrep
  [<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg">](https://www.jenkins.io/)
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">](https://vuejs.org/)
  [<img width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">](https://www.atlassian.com/software/jira)
- [<img width="55" src="![image](https://user-images.githubusercontent.com/55166987/150851564-6ac76c15-67ac-439b-895d-25d52949d69e.png)
-">](https://nextjs.org/)
+ [<img width="55" src="https://user-images.githubusercontent.com/55166987/150851685-ff5ee62b-a85c-4f1c-bd06-f8e9f384e91f.png">](https://nextjs.org/)
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">](https://tailwindcss.com/)
 
  
