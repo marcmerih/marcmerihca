@@ -60,7 +60,7 @@ My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I am also entrep
 * Guitar 🎸
 
 
-## My involved projects:
+## My disclosed involvements:
  [<img width="55" src="https://argalleria.com/assets/logo.png">](https://www.instagram.com/ar.t.app/)
  [<img width="55" src="https://sapplink.ca/assets/logo@2x.png">](https://sapplink.ca)
   [<img width="55" src="https://github.com/marcmerih/smart-route-appstatic/blob/master/back-end/smart_route/smart_route/static/frontend/src/assets/logo.png?raw=true">](http://npka-cgi-npapdev.inago.co.jp:9002/route/)
