@@ -10,7 +10,7 @@ Heya! 👋🏻
 </h1>
 
 <h4 align="center">
-My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I am also entrepreneurially driven & passionate towards software, with 3 years of experience and a focus in full-stack development, system architecture design, as well as product management! I ❤️ building new things, so enjoy my projects while you're here! </h4>
+My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I am also entrepreneurially driven & passionate towards software, with 3 years of experience and a focus in full-stack development, system architecture design, as well as product management!</h4>
 
 -----------
 
