@@ -15,6 +15,7 @@ My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I am also entrep
 -----------
 
 ## My latest endeavours:
+🔜 * `Junior CRM Digital Developer` @ *HelloFresh*
 * `Software Developer` @ *Intact Insurance*
 * `Software Engineering Consultant & Team Lead` @ *Techrangle*
 * `Product Owner & Co-founder` @ *Goalkick*
