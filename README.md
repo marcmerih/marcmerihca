@@ -14,7 +14,7 @@ My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I am also entrep
 
 -----------
 
-## My latest endeavours:
+## My background:
 * `Developer, Global CRM` @ *HelloFresh*
 * `Software Developer` @ *Intact Insurance*
 * `Software Engineering Consultant & Team Lead` @ *Techrangle*
