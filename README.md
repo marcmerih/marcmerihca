@@ -10,7 +10,7 @@ Heya! 👋🏻
 </h1>
 
 <h5 align="center">
-My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I am passionate towards software, with 3 years of experience and a focus in full-stack development, system architecture design, as well as product management. I am currently a Junior Developer as part of the CRM Automation team at HelloFresh [<img width="55" src="https://www.hellofreshgroup.com/static/HelloFresh-logo-a2a149bdc1548e071bb89411547914ca.png">(https://www.hellofreshgroup.com/en/about-us)</h5>
+My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I am passionate towards software, with 3 years of experience and a focus in full-stack development, system architecture design, as well as product management. I am currently a Junior Developer as part of the CRM Automation team at HelloFresh [<img width="55" src="https://www.hellofreshgroup.com/static/HelloFresh-logo-a2a149bdc1548e071bb89411547914ca.png">](https://www.hellofreshgroup.com/en/about-us)</h5>
 
 -----------
 
