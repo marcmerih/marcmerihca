@@ -11,7 +11,7 @@ My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer with a Minor in A
 ## My background:
 * `Junior Developer, CRM Automation` @ *HelloFresh*
 * `Software Developer` @ *Intact Insurance*
-* `Lead Software Engineering Consultant` @ *Techrangle*
+* `Lead Software Engineering Consultant` @ *Undisclosed (Techrangle)*
 * `Product Owner & Co-founder` @ *Goalkick*
 * `Lead Software Engineer, UI` @ *ReviewMyAgent (Techrangle)*
 * `Founding Partner` @ *Sapplink*
