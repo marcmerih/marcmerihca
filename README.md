@@ -22,12 +22,3 @@ My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I have 3 years o
  [<img width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">](https://www.atlassian.com/software/jira)
  [<img width="55" src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png">](https://nextjs.org/)
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">](https://tailwindcss.com/)
-
-
-## My hobbies:
-* Sailing ⛵
-* Skiing ❄️
-* Art History 🎨 
-* Football ⚽️
-* Piano 🎹
-* Guitar 🎸
