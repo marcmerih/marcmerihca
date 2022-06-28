@@ -8,14 +8,6 @@ My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I have 3 years o
 
 -----------
 
-## My background:
-* `Junior Developer, CRM Automation` @ *HelloFresh*
-* `Software Developer` @ *Intact Insurance*
-* `Lead Software Engineering Consultant` @ *Undisclosed (Techrangle)*
-* `Product Owner & Co-founder` @ *Goalkick*
-* `Lead Software Engineer, UI` @ *ReviewMyAgent (Techrangle)*
-* `Founding Partner` @ *Sapplink*
-
 ## My tech stack:
 
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">](https://angular.io/)
@@ -31,20 +23,6 @@ My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I have 3 years o
  [<img width="55" src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png">](https://nextjs.org/)
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">](https://tailwindcss.com/)
 
- 
-
-
-## My areas of interest:
-
-* Machine Learning ⚙️
-* Data Analytics 🧪
-* Mobile App Development 📱 
-* Enterprise Software Application Development 👨🏻‍💻
-* Product Design 🥽
-* Agile: Scrum 📚
-* Project Management 💡
-
-
 
 ## My hobbies:
 * Sailing ⛵
@@ -53,12 +31,3 @@ My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I have 3 years o
 * Football ⚽️
 * Piano 🎹
 * Guitar 🎸
-
-
-## My previous disclosed involvements:
- [<img width="55" src="https://argalleria.com/assets/logo.png">](https://www.instagram.com/ar.t.app/)
- [<img width="55" src="https://sapplink.ca/assets/logo@2x.png">](https://sapplink.ca)
-  [<img width="55" src="https://github.com/marcmerih/smart-route-appstatic/blob/master/back-end/smart_route/smart_route/static/frontend/src/assets/logo.png?raw=true">](http://npka-cgi-npapdev.inago.co.jp:9002/route/)
- [<img width="215" src="https://reviewmyagent.ca/assets/logo-footer.svg">](https://reviewmyagent.ca/#/home)
-
------------
