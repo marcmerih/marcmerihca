@@ -3,7 +3,7 @@
 <br>
  👋🏻
 
-<h5 align="center">
+<h5 align="left">
 My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I have 3 years of experience with a focus on full-stack development, system architecture design, as well as product management. I am currently a Junior Developer as part of the CRM Automation team at HelloFresh <img width="15" src="https://wowmedianetwork.com/wp-content/uploads/2020/08/Hello-Fresh-2048x1854.png"></h5>
 
 -----------
