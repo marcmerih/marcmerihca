@@ -9,7 +9,8 @@ My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I have 3 years o
 -----------
 
 ## My tech stack:
-
+ [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sf-marketingcloud-logo.png">](https://www.salesforce.com/ca/)
+ [<img width="55" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_12952590441af20af115699567f9e454/everest-formerly-250ok-and-return-path.png">](https://www.validity.com/everest/)
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">](https://angular.io/)
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">](https://www.javascript.com/)
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">](https://www.python.org/)
