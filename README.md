@@ -16,10 +16,10 @@ My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I have 3.5 years
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">](https://www.python.org/)
  <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+ [<img width="55" src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png">](https://nextjs.org/)
+ [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">](https://tailwindcss.com/)
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">](https://getbootstrap.com/)
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">](https://nodejs.org/en/)
  [<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg">](https://www.jenkins.io/)
  [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">](https://vuejs.org/)
  [<img width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">](https://www.atlassian.com/software/jira)
- [<img width="55" src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png">](https://nextjs.org/)
- [<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">](https://tailwindcss.com/)
