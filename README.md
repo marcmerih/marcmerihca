@@ -4,7 +4,7 @@
  👋🏻
 
 <h5 align="left">
-My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I have 3.5 years of experience with a focus on full-stack development, system architecture design, as well as product management. I am currently a Developer of CRM Digital, as part of the CRM Automation team at HelloFresh <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/HelloFresh_Logo_2020.png"></h5>
+My name is <b>Marc Atasoy</b>, and I am an Industrial Engineer. I have 3.5 years of experience with a focus on full-stack development, system architecture design, as well as product management. I am currently a Marketing Automation Manager of CRM, as part of the CRM Automation team at HelloFresh <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/HelloFresh_Logo_2020.png"></h5>
 
 -----------
 
