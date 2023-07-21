@@ -3,10 +3,10 @@
 <br>
  👋🏻
 
-<h3 align="left">
-Marc Atasoy,
+<h4 align="left">
+Marc Atasoy, <br>
 Technical Product Manager, CRM @ HelloFresh <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/HelloFresh_Logo_2020.png"> <br>
-BASc. Ind. Eng.</h3>
+BASc. Ind. Eng.</h4>
 
 <br>
 
