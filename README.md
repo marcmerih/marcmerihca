@@ -4,7 +4,7 @@
  👋🏻
 
 <h5 align="left">
-Marc Atasoy, BASc. Ind. Eng.
+Marc Atasoy, BASc. Ind. Eng. <br>
 Technical Product Manager, CRM @ HelloFresh <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/HelloFresh_Logo_2020.png"></h5>
 
 -----------
