@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { ArrowLeft } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import MarketplaceCard from '../components/MarketplaceCard';
+import ThemeToggle from '../components/ThemeToggle';
 
 const products = [
   {
@@ -24,7 +25,8 @@ const products = [
 
 function Marketplace() {
   return (
-    <div className="min-h-screen bg-dark text-white relative overflow-hidden p-6">
+    <div className="min-h-screen bg-gray-50 dark:bg-dark text-gray-900 dark:text-white relative overflow-hidden p-6">
+      <ThemeToggle />
       <div className="fixed inset-0 bg-[url('https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80')] bg-cover bg-center opacity-10"></div>
       
       <motion.div 

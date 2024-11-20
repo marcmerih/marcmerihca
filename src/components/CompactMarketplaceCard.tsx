@@ -2,15 +2,15 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { ArrowUpRight } from 'lucide-react';
 
-interface ProjectCardProps {
+interface CompactMarketplaceCardProps {
   title: string;
   description: string;
-  tech: string[];
+  price: number;
   image: string;
   index: number;
 }
 
-const ProjectCard: React.FC<ProjectCardProps> = ({ title, description, tech, image, index }) => {
+const CompactMarketplaceCard: React.FC<CompactMarketplaceCardProps> = ({ title, description, price, image, index }) => {
   return (
     <motion.div
       initial={{ opacity: 0, y: 10 }}
@@ -29,23 +29,19 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ title, description, tech, ima
         <div className="flex-1 min-w-0">
           <div className="flex items-center justify-between mb-1">
             <h3 className="text-sm font-semibold truncate">{title}</h3>
-            <motion.div 
-              whileHover={{ scale: 1.1 }}
-              className="bg-white/10 rounded-full p-1.5 cursor-pointer"
-            >
-              <ArrowUpRight className="w-3.5 h-3.5" />
-            </motion.div>
           </div>
           <p className="text-[#888888] text-xs mb-1.5 line-clamp-1">{description}</p>
-          <div className="flex flex-wrap gap-1">
-            {tech.map((item) => (
-              <span 
-                key={item}
-                className="px-2 py-0.5 bg-white/5 text-[10px] rounded-full text-[#888888]"
-              >
-                {item}
-              </span>
-            ))}
+          <div className="flex items-center justify-between">
+            <span className="text-sm font-bold">${price.toFixed(2)}</span>
+            <motion.button 
+              whileHover={{ scale: 1.02 }}
+              className="group relative inline-flex items-center gap-1.5 bg-black/10 dark:bg-white/10 
+                hover:bg-black/20 dark:hover:bg-white/15 px-3 py-1 rounded-full text-xs 
+                text-black dark:text-white transition-all duration-200"
+            >
+              <span>Purchase</span>
+              <ArrowUpRight className="w-3 h-3" />
+            </motion.button>
           </div>
         </div>
       </div>
@@ -53,4 +49,4 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ title, description, tech, ima
   );
 };
 
-export default ProjectCard;
+export default CompactMarketplaceCard; 

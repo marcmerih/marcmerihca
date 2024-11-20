@@ -1,34 +1,69 @@
 import React from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import { BadgeCheck } from 'lucide-react';
 
 interface ProfileCardProps {
   name: string;
   verified: boolean;
   description: string;
   imageUrl: string;
+  isMinimized: boolean;
 }
 
-const ProfileCard: React.FC<ProfileCardProps> = ({ name, verified, description, imageUrl }) => {
+const ProfileCard: React.FC<ProfileCardProps> = ({ 
+  name, 
+  verified, 
+  description, 
+  imageUrl,
+  isMinimized 
+}) => {
   return (
-    <div className="text-center">
-      <div className="w-32 h-32 mx-auto mb-4">
-        <img 
-          src={imageUrl} 
-          alt={name}
-          className="w-full h-full rounded-full object-cover border-[3px] border-[#2A2A2A]"
-        />
-      </div>
-      <h1 className="text-[38px] font-[900] mb-2.5 flex items-center justify-center gap-2">
-        {name}
-        {verified && (
-          <svg viewBox="0 0 22 22" className="w-6 h-6 text-[#1D9BF0]" fill="currentColor">
-            <path d="M20.396 11c-.018-.646-.215-1.275-.57-1.816-.354-.54-.852-.972-1.438-1.246.223-.607.27-1.264.14-1.897-.131-.634-.437-1.218-.882-1.687-.47-.445-1.053-.75-1.687-.882-.633-.13-1.29-.083-1.897.14-.273-.587-.704-1.086-1.245-1.44S11.647 1.62 11 1.604c-.646.017-1.273.213-1.813.568s-.969.854-1.24 1.44c-.608-.223-1.267-.272-1.902-.14-.635.13-1.22.436-1.69.882-.445.47-.749 1.055-.878 1.688-.13.633-.08 1.29.144 1.896-.587.274-1.087.705-1.443 1.245-.356.54-.555 1.17-.574 1.817.02.647.218 1.276.574 1.817.356.54.856.972 1.443 1.245-.224.606-.274 1.263-.144 1.896.13.634.433 1.218.877 1.688.47.443 1.054.747 1.687.878.633.132 1.29.084 1.897-.136.274.586.705 1.084 1.246 1.439.54.354 1.17.551 1.816.569.647-.016 1.276-.213 1.817-.567s.972-.854 1.245-1.44c.604.239 1.266.296 1.903.164.636-.132 1.22-.447 1.68-.907.46-.46.776-1.044.908-1.681s.075-1.299-.165-1.903c.586-.274 1.084-.705 1.439-1.246.354-.54.551-1.17.569-1.816zM9.662 14.85l-3.429-3.428 1.293-1.302 2.072 2.072 4.4-4.794 1.347 1.246z" />
-          </svg>
-        )}
-      </h1>
-      <p className="text-[#888888] text-[15px] leading-[1.4] max-w-[460px] mx-auto font-normal">
-        {description}
-      </p>
-    </div>
+    <AnimatePresence mode="wait">
+      {!isMinimized && (
+        <motion.div 
+          className="text-center"
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          exit={{ opacity: 0 }}
+          transition={{ duration: 0.2 }}
+        >
+          <motion.div 
+            className="w-[140px] h-[140px] mx-auto mb-5 rounded-full shadow-lg"
+            layoutId="profile-image-container"
+            transition={{ type: "spring", stiffness: 300, damping: 30 }}
+          >
+            <motion.img
+              src={imageUrl}
+              alt={name}
+              className="w-full h-full rounded-full object-cover"
+              layoutId="profile-image"
+              transition={{ type: "spring", stiffness: 300, damping: 30 }}
+            />
+          </motion.div>
+          <div className="flex items-center justify-center gap-2 mb-3">
+            <motion.h2 
+              className="text-2xl font-bold"
+              layoutId="profile-name"
+              transition={{ type: "spring", stiffness: 300, damping: 30 }}
+            >
+              {name}
+            </motion.h2>
+            {verified && (
+              <BadgeCheck className="w-6 h-6 text-blue-500" />
+            )}
+          </div>
+          <motion.p 
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.2 }}
+            className="text-[#888888] text-[15px] leading-relaxed max-w-[400px] mx-auto"
+          >
+            {description}
+          </motion.p>
+        </motion.div>
+      )}
+    </AnimatePresence>
   );
 };
 

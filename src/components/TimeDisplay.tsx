@@ -26,7 +26,7 @@ const TimeDisplay: React.FC = () => {
   };
 
   return (
-    <div className="absolute top-4 right-4 flex flex-col items-end gap-1 text-[13px] text-[#888888]">
+    <div className="flex flex-col items-end gap-1 text-[13px] text-[#888888]">
       <span>Toronto, Canada</span>
       <div className="flex items-center gap-1.5">
         <Clock className="w-3.5 h-3.5" />
